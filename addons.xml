@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.xunitytalk-2.0" name="XunityTalk-2.0" version="1.0" provider-name="Merc and Willow">
+	<extension point="xbmc.addon.repository" name="XunityTalk 2.0">
+		<info compressed="false">https://raw.githubusercontent.com/xunitytalknew/XunityTalk-2.0/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/xunitytalknew/XunityTalk-2.0/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/xunitytalknew/XunityTalk-2.0/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description>Welcome to XunityTalk 2.0, Now owned by Merc and Willow. This repo was brought back so that Merc and Willow could give back to the Kodi Community. We are constantly updating so please stay tuned for more updated and addons added.</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
